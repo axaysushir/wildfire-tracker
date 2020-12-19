@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was build using React and Google maps. That shows live wild fire event with exact location on the map with location name, longitude, latitude. This app uses data from NASA api of different natural events / data that are collected in real time by NASA.
 
 ## Available Scripts
 
